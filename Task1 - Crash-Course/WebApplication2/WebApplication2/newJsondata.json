@@ -1,0 +1,1 @@
+{"figures":[{"id":1,"area":10.0,"perimeter":15.403124237432849,"type":"triangle","coordinates":[{"x":1.0,"y":1.0},{"x":1.0,"y":4.0},{"x":5.0,"y":4.0}]},{"id":2,"area":12.0,"perimeter":-14.0,"type":"rectangle","coordinates":[{"x":1.0,"y":1.0},{"x":1.0,"y":4.0},{"x":5.0,"y":4.0},{"x":5.0,"y":1.0}]}]}

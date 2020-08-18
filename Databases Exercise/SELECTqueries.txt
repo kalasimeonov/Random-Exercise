@@ -1,0 +1,5 @@
+
+SELECT * FROM dbo.productcatalog WHERE dbo.productcatalog.name = '%[partOfName]%';
+
+SELECT * FROM dbo.orderhistory WHERE dbo.orderhistory.order_number = [order_id];
+SELECT * FROM dbo.orderhistory WHERE dbo.orderhistory.order_number = [order_id];

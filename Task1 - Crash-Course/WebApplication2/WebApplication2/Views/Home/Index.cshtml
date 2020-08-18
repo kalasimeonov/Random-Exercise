@@ -1,0 +1,16 @@
+﻿
+
+@model WebApplication2.Models.Figure
+
+
+@foreach (var figure in @Model.figures) 
+{
+    @figure.id;
+    @figure.type;
+
+    <div>
+        x = @figure.sides[0].x
+        y = @figure.sides[0].y
+
+    </div>
+}

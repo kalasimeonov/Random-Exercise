@@ -1,0 +1,772 @@
+[
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "planets": [
+      {
+        "name": "Alderaan",
+        "model": "grasslands, mountains"
+      },
+      {
+        "name": "Yavin IV",
+        "model": "jungle, rainforests"
+      },
+      {
+        "name": "Tatooine",
+        "model": "desert"
+      }
+    ],
+    "starships": [
+      {
+        "name": "CR90 corvette",
+        "model": "CR90 corvette",
+        "manufacturer": "Corellian Engineering Corporation"
+      },
+      {
+        "name": "Star Destroyer",
+        "model": "Imperial I-class Star Destroyer",
+        "manufacturer": "Kuat Drive Yards"
+      },
+      {
+        "name": "Sentinel-class landing craft",
+        "model": "Sentinel-class landing craft",
+        "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks"
+      },
+      {
+        "name": "Death Star",
+        "model": "DS-1 Orbital Battle Station",
+        "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems"
+      },
+      {
+        "name": "Millennium Falcon",
+        "model": "YT-1300 light freighter",
+        "manufacturer": "Corellian Engineering Corporation"
+      },
+      {
+        "name": "Y-wing",
+        "model": "BTL Y-wing",
+        "manufacturer": "Koensayr Manufacturing"
+      },
+      {
+        "name": "X-wing",
+        "model": "T-65 X-wing",
+        "manufacturer": "Incom Corporation"
+      },
+      {
+        "name": "TIE Advanced x1",
+        "model": "Twin Ion Engine Advanced x1",
+        "manufacturer": "Sienar Fleet Systems"
+      }
+    ],
+    "vehicles": [
+      {
+        "name": "Sand Crawler",
+        "model": "Digger Crawler",
+        "vehicle_class": "wheeled"
+      },
+      {
+        "name": "T-16 skyhopper",
+        "model": "T-16 skyhopper",
+        "vehicle_class": "repulsorcraft"
+      },
+      {
+        "name": "X-34 landspeeder",
+        "model": "X-34 landspeeder",
+        "vehicle_class": "repulsorcraft"
+      },
+      {
+        "name": "TIE/LN starfighter",
+        "model": "Twin Ion Engine/Ln Starfighter",
+        "vehicle_class": "starfighter"
+      }
+    ],
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2015-04-11T09:46:52.774897Z"
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "planets": [
+      {
+        "name": "Naboo",
+        "model": "grassy hills, swamps, forests, mountains"
+      },
+      {
+        "name": "Coruscant",
+        "model": "cityscape, mountains"
+      },
+      {
+        "name": "Kamino",
+        "model": "ocean"
+      },
+      {
+        "name": "Geonosis",
+        "model": "rock, desert, mountain, barren"
+      },
+      {
+        "name": "Tatooine",
+        "model": "desert"
+      }
+    ],
+    "starships": [
+      {
+        "name": "Slave 1",
+        "model": "Firespray-31-class patrol and attack",
+        "manufacturer": "Kuat Systems Engineering"
+      },
+      {
+        "name": "Naboo fighter",
+        "model": "N-1 starfighter",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps"
+      },
+      {
+        "name": "J-type diplomatic barge",
+        "model": "J-type diplomatic barge",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives"
+      },
+      {
+        "name": "AA-9 Coruscant freighter",
+        "model": "Botajef AA-9 Freighter-Liner",
+        "manufacturer": "Botajef Shipyards"
+      },
+      {
+        "name": "Jedi starfighter",
+        "model": "Delta-7 Aethersprite-class interceptor",
+        "manufacturer": "Kuat Systems Engineering"
+      },
+      {
+        "name": "H-type Nubian yacht",
+        "model": "H-type Nubian yacht",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps"
+      },
+      {
+        "name": "Droid control ship",
+        "model": "Lucrehulk-class Droid Control Ship",
+        "manufacturer": "Hoersch-Kessel Drive, Inc."
+      },
+      {
+        "name": "Republic Assault ship",
+        "model": "Acclamator I-class assault ship",
+        "manufacturer": "Rothana Heavy Engineering"
+      },
+      {
+        "name": "Solar Sailer",
+        "model": "Punworcca 116-class interstellar sloop",
+        "manufacturer": "Huppla Pasa Tisc Shipwrights Collective"
+      }
+    ],
+    "vehicles": [
+      {
+        "name": "Sand Crawler",
+        "model": "Digger Crawler",
+        "vehicle_class": "wheeled"
+      },
+      {
+        "name": "Zephyr-G swoop bike",
+        "model": "Zephyr-G swoop bike",
+        "vehicle_class": "repulsorcraft"
+      },
+      {
+        "name": "Koro-2 Exodrive airspeeder",
+        "model": "Koro-2 Exodrive airspeeder",
+        "vehicle_class": "airspeeder"
+      },
+      {
+        "name": "XJ-6 airspeeder",
+        "model": "XJ-6 airspeeder",
+        "vehicle_class": "airspeeder"
+      },
+      {
+        "name": "LAAT/i",
+        "model": "Low Altitude Assault Transport/infrantry",
+        "vehicle_class": "gunship"
+      },
+      {
+        "name": "LAAT/c",
+        "model": "Low Altitude Assault Transport/carrier",
+        "vehicle_class": "gunship"
+      },
+      {
+        "name": "AT-TE",
+        "model": "All Terrain Tactical Enforcer",
+        "vehicle_class": "walker"
+      },
+      {
+        "name": "SPHA",
+        "model": "Self-Propelled Heavy Artillery",
+        "vehicle_class": "walker"
+      },
+      {
+        "name": "Flitknot speeder",
+        "model": "Flitknot speeder",
+        "vehicle_class": "speeder"
+      },
+      {
+        "name": "Neimoidian shuttle",
+        "model": "Sheathipede-class transport shuttle",
+        "vehicle_class": "transport"
+      },
+      {
+        "name": "Geonosian starfighter",
+        "model": "Nantex-class territorial defense",
+        "vehicle_class": "starfighter"
+      }
+    ],
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2015-04-11T09:45:01.623982Z"
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "planets": [
+      {
+        "name": "Naboo",
+        "model": "grassy hills, swamps, forests, mountains"
+      },
+      {
+        "name": "Coruscant",
+        "model": "cityscape, mountains"
+      },
+      {
+        "name": "Tatooine",
+        "model": "desert"
+      }
+    ],
+    "starships": [
+      {
+        "name": "Naboo Royal Starship",
+        "model": "J-type 327 Nubian royal starship",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives"
+      },
+      {
+        "name": "Scimitar",
+        "model": "Star Courier",
+        "manufacturer": "Republic Sienar Systems"
+      },
+      {
+        "name": "Republic Cruiser",
+        "model": "Consular-class cruiser",
+        "manufacturer": "Corellian Engineering Corporation"
+      },
+      {
+        "name": "Droid control ship",
+        "model": "Lucrehulk-class Droid Control Ship",
+        "manufacturer": "Hoersch-Kessel Drive, Inc."
+      },
+      {
+        "name": "Naboo fighter",
+        "model": "N-1 starfighter",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps"
+      }
+    ],
+    "vehicles": [
+      {
+        "name": "Vulture Droid",
+        "model": "Vulture-class droid starfighter",
+        "vehicle_class": "starfighter"
+      },
+      {
+        "name": "Multi-Troop Transport",
+        "model": "Multi-Troop Transport",
+        "vehicle_class": "repulsorcraft"
+      },
+      {
+        "name": "Armored Assault Tank",
+        "model": "Armoured Assault Tank",
+        "vehicle_class": "repulsorcraft"
+      },
+      {
+        "name": "Single Trooper Aerial Platform",
+        "model": "Single Trooper Aerial Platform",
+        "vehicle_class": "repulsorcraft"
+      },
+      {
+        "name": "C-9979 landing craft",
+        "model": "C-9979 landing craft",
+        "vehicle_class": "landing craft"
+      },
+      {
+        "name": "Tribubble bongo",
+        "model": "Tribubble bongo",
+        "vehicle_class": "submarine"
+      },
+      {
+        "name": "Sith speeder",
+        "model": "FC-20 speeder bike",
+        "vehicle_class": "speeder"
+      }
+    ],
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2015-04-11T09:45:18.689301Z"
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "planets": [
+      {
+        "name": "Alderaan",
+        "model": "grasslands, mountains"
+      },
+      {
+        "name": "Dagobah",
+        "model": "swamp, jungles"
+      },
+      {
+        "name": "Naboo",
+        "model": "grassy hills, swamps, forests, mountains"
+      },
+      {
+        "name": "Coruscant",
+        "model": "cityscape, mountains"
+      },
+      {
+        "name": "Utapau",
+        "model": "scrublands, savanna, canyons, sinkholes"
+      },
+      {
+        "name": "Mustafar",
+        "model": "volcanoes, lava rivers, mountains, caves"
+      },
+      {
+        "name": "Kashyyyk",
+        "model": "jungle, forests, lakes, rivers"
+      },
+      {
+        "name": "Polis Massa",
+        "model": "airless asteroid"
+      },
+      {
+        "name": "Mygeeto",
+        "model": "glaciers, mountains, ice canyons"
+      },
+      {
+        "name": "Felucia",
+        "model": "fungus forests"
+      },
+      {
+        "name": "Cato Neimoidia",
+        "model": "mountains, fields, forests, rock arches"
+      },
+      {
+        "name": "Saleucami",
+        "model": "caves, desert, mountains, volcanoes"
+      },
+      {
+        "name": "Tatooine",
+        "model": "desert"
+      }
+    ],
+    "starships": [
+      {
+        "name": "Jedi starfighter",
+        "model": "Delta-7 Aethersprite-class interceptor",
+        "manufacturer": "Kuat Systems Engineering"
+      },
+      {
+        "name": "Trade Federation cruiser",
+        "model": "Providence-class carrier/destroyer",
+        "manufacturer": "Rendili StarDrive, Free Dac Volunteers Engineering corps."
+      },
+      {
+        "name": "Theta-class T-2c shuttle",
+        "model": "Theta-class T-2c shuttle",
+        "manufacturer": "Cygnus Spaceworks"
+      },
+      {
+        "name": "Droid control ship",
+        "model": "Lucrehulk-class Droid Control Ship",
+        "manufacturer": "Hoersch-Kessel Drive, Inc."
+      },
+      {
+        "name": "Republic attack cruiser",
+        "model": "Senator-class Star Destroyer",
+        "manufacturer": "Kuat Drive Yards, Allanteen Six shipyards"
+      },
+      {
+        "name": "Naboo star skiff",
+        "model": "J-type star skiff",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated"
+      },
+      {
+        "name": "Jedi Interceptor",
+        "model": "Eta-2 Actis-class light interceptor",
+        "manufacturer": "Kuat Systems Engineering"
+      },
+      {
+        "name": "arc-170",
+        "model": "Aggressive Reconnaissance-170 starfighte",
+        "manufacturer": "Incom Corporation, Subpro Corporation"
+      },
+      {
+        "name": "Belbullab-22 starfighter",
+        "model": "Belbullab-22 starfighter",
+        "manufacturer": "Feethan Ottraw Scalable Assemblies"
+      },
+      {
+        "name": "V-wing",
+        "model": "Alpha-3 Nimbus-class V-wing starfighter",
+        "manufacturer": "Kuat Systems Engineering"
+      },
+      {
+        "name": "CR90 corvette",
+        "model": "CR90 corvette",
+        "manufacturer": "Corellian Engineering Corporation"
+      },
+      {
+        "name": "Banking clan frigate",
+        "model": "Munificent-class star frigate",
+        "manufacturer": "Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries"
+      }
+    ],
+    "vehicles": [
+      {
+        "name": "Vulture Droid",
+        "model": "Vulture-class droid starfighter",
+        "vehicle_class": "starfighter"
+      },
+      {
+        "name": "LAAT/i",
+        "model": "Low Altitude Assault Transport/infrantry",
+        "vehicle_class": "gunship"
+      },
+      {
+        "name": "AT-TE",
+        "model": "All Terrain Tactical Enforcer",
+        "vehicle_class": "walker"
+      },
+      {
+        "name": "Neimoidian shuttle",
+        "model": "Sheathipede-class transport shuttle",
+        "vehicle_class": "transport"
+      },
+      {
+        "name": "Tsmeu-6 personal wheel bike",
+        "model": "Tsmeu-6 personal wheel bike",
+        "vehicle_class": "wheeled walker"
+      },
+      {
+        "name": "Emergency Firespeeder",
+        "model": "Fire suppression speeder",
+        "vehicle_class": "fire suppression ship"
+      },
+      {
+        "name": "Droid tri-fighter",
+        "model": "tri-fighter",
+        "vehicle_class": "droid starfighter"
+      },
+      {
+        "name": "Oevvaor jet catamaran",
+        "model": "Oevvaor jet catamaran",
+        "vehicle_class": "airspeeder"
+      },
+      {
+        "name": "Raddaugh Gnasp fluttercraft",
+        "model": "Raddaugh Gnasp fluttercraft",
+        "vehicle_class": "air speeder"
+      },
+      {
+        "name": "Clone turbo tank",
+        "model": "HAVw A6 Juggernaut",
+        "vehicle_class": "wheeled walker"
+      },
+      {
+        "name": "Corporate Alliance tank droid",
+        "model": "NR-N99 Persuader-class droid enforcer",
+        "vehicle_class": "droid tank"
+      },
+      {
+        "name": "Droid gunship",
+        "model": "HMP droid gunship",
+        "vehicle_class": "airspeeder"
+      },
+      {
+        "name": "AT-RT",
+        "model": "All Terrain Recon Transport",
+        "vehicle_class": "walker"
+      }
+    ],
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2015-04-11T09:45:44.862122Z"
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "planets": [
+      {
+        "name": "Dagobah",
+        "model": "swamp, jungles"
+      },
+      {
+        "name": "Endor",
+        "model": "forests, mountains, lakes"
+      },
+      {
+        "name": "Naboo",
+        "model": "grassy hills, swamps, forests, mountains"
+      },
+      {
+        "name": "Coruscant",
+        "model": "cityscape, mountains"
+      },
+      {
+        "name": "Tatooine",
+        "model": "desert"
+      }
+    ],
+    "starships": [
+      {
+        "name": "Executor",
+        "model": "Executor-class star dreadnought",
+        "manufacturer": "Kuat Drive Yards, Fondor Shipyards"
+      },
+      {
+        "name": "Millennium Falcon",
+        "model": "YT-1300 light freighter",
+        "manufacturer": "Corellian Engineering Corporation"
+      },
+      {
+        "name": "Y-wing",
+        "model": "BTL Y-wing",
+        "manufacturer": "Koensayr Manufacturing"
+      },
+      {
+        "name": "X-wing",
+        "model": "T-65 X-wing",
+        "manufacturer": "Incom Corporation"
+      },
+      {
+        "name": "Imperial shuttle",
+        "model": "Lambda-class T-4a shuttle",
+        "manufacturer": "Sienar Fleet Systems"
+      },
+      {
+        "name": "EF76 Nebulon-B escort frigate",
+        "model": "EF76 Nebulon-B escort frigate",
+        "manufacturer": "Kuat Drive Yards"
+      },
+      {
+        "name": "Calamari Cruiser",
+        "model": "MC80 Liberty type Star Cruiser",
+        "manufacturer": "Mon Calamari shipyards"
+      },
+      {
+        "name": "A-wing",
+        "model": "RZ-1 A-wing Interceptor",
+        "manufacturer": "Alliance Underground Engineering, Incom Corporation"
+      },
+      {
+        "name": "B-wing",
+        "model": "A/SF-01 B-wing starfighter",
+        "manufacturer": "Slayn & Korpil"
+      },
+      {
+        "name": "Star Destroyer",
+        "model": "Imperial I-class Star Destroyer",
+        "manufacturer": "Kuat Drive Yards"
+      },
+      {
+        "name": "Rebel transport",
+        "model": "GR-75 medium transport",
+        "manufacturer": "Gallofree Yards, Inc."
+      },
+      {
+        "name": "CR90 corvette",
+        "model": "CR90 corvette",
+        "manufacturer": "Corellian Engineering Corporation"
+      }
+    ],
+    "vehicles": [
+      {
+        "name": "TIE/LN starfighter",
+        "model": "Twin Ion Engine/Ln Starfighter",
+        "vehicle_class": "starfighter"
+      },
+      {
+        "name": "TIE bomber",
+        "model": "TIE/sa bomber",
+        "vehicle_class": "space/planetary bomber"
+      },
+      {
+        "name": "AT-AT",
+        "model": "All Terrain Armored Transport",
+        "vehicle_class": "assault walker"
+      },
+      {
+        "name": "AT-ST",
+        "model": "All Terrain Scout Transport",
+        "vehicle_class": "walker"
+      },
+      {
+        "name": "Sail barge",
+        "model": "Modified Luxury Sail Barge",
+        "vehicle_class": "sail barge"
+      },
+      {
+        "name": "Bantha-II cargo skiff",
+        "model": "Bantha-II",
+        "vehicle_class": "repulsorcraft cargo skiff"
+      },
+      {
+        "name": "TIE/IN interceptor",
+        "model": "Twin Ion Engine Interceptor",
+        "vehicle_class": "starfighter"
+      },
+      {
+        "name": "Imperial Speeder Bike",
+        "model": "74-Z speeder bike",
+        "vehicle_class": "speeder"
+      }
+    ],
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2015-04-11T09:46:05.220365Z"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "planets": [
+      {
+        "name": "Hoth",
+        "model": "tundra, ice caves, mountain ranges"
+      },
+      {
+        "name": "Dagobah",
+        "model": "swamp, jungles"
+      },
+      {
+        "name": "Bespin",
+        "model": "gas giant"
+      },
+      {
+        "name": "Ord Mantell",
+        "model": "plains, seas, mesas"
+      }
+    ],
+    "starships": [
+      {
+        "name": "Executor",
+        "model": "Executor-class star dreadnought",
+        "manufacturer": "Kuat Drive Yards, Fondor Shipyards"
+      },
+      {
+        "name": "Millennium Falcon",
+        "model": "YT-1300 light freighter",
+        "manufacturer": "Corellian Engineering Corporation"
+      },
+      {
+        "name": "Y-wing",
+        "model": "BTL Y-wing",
+        "manufacturer": "Koensayr Manufacturing"
+      },
+      {
+        "name": "X-wing",
+        "model": "T-65 X-wing",
+        "manufacturer": "Incom Corporation"
+      },
+      {
+        "name": "Slave 1",
+        "model": "Firespray-31-class patrol and attack",
+        "manufacturer": "Kuat Systems Engineering"
+      },
+      {
+        "name": "Imperial shuttle",
+        "model": "Lambda-class T-4a shuttle",
+        "manufacturer": "Sienar Fleet Systems"
+      },
+      {
+        "name": "EF76 Nebulon-B escort frigate",
+        "model": "EF76 Nebulon-B escort frigate",
+        "manufacturer": "Kuat Drive Yards"
+      },
+      {
+        "name": "Star Destroyer",
+        "model": "Imperial I-class Star Destroyer",
+        "manufacturer": "Kuat Drive Yards"
+      },
+      {
+        "name": "Rebel transport",
+        "model": "GR-75 medium transport",
+        "manufacturer": "Gallofree Yards, Inc."
+      }
+    ],
+    "vehicles": [
+      {
+        "name": "TIE/LN starfighter",
+        "model": "Twin Ion Engine/Ln Starfighter",
+        "vehicle_class": "starfighter"
+      },
+      {
+        "name": "Snowspeeder",
+        "model": "t-47 airspeeder",
+        "vehicle_class": "airspeeder"
+      },
+      {
+        "name": "TIE bomber",
+        "model": "TIE/sa bomber",
+        "vehicle_class": "space/planetary bomber"
+      },
+      {
+        "name": "AT-AT",
+        "model": "All Terrain Armored Transport",
+        "vehicle_class": "assault walker"
+      },
+      {
+        "name": "AT-ST",
+        "model": "All Terrain Scout Transport",
+        "vehicle_class": "walker"
+      },
+      {
+        "name": "Storm IV Twin-Pod cloud car",
+        "model": "Storm IV Twin-Pod",
+        "vehicle_class": "repulsorcraft"
+      }
+    ],
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2017-04-19T10:57:29.544256Z"
+  },
+  {
+    "title": "The Force Awakens",
+    "episode_id": 7,
+    "director": "J. J. Abrams",
+    "producer": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
+    "release_date": "2015-12-11",
+    "planets": [
+      {
+        "name": "Jakku",
+        "model": "deserts"
+      }
+    ],
+    "starships": [
+      {
+        "name": "T-70 X-wing fighter",
+        "model": "T-70 X-wing fighter",
+        "manufacturer": "Incom"
+      },
+      {
+        "name": "Millennium Falcon",
+        "model": "YT-1300 light freighter",
+        "manufacturer": "Corellian Engineering Corporation"
+      }
+    ],
+    "vehicles": [],
+    "created": "2015-04-17T06:51:30.504780Z",
+    "edited": "2015-12-17T14:31:47.617768Z"
+  }
+]

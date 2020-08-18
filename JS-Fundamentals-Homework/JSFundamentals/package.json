@@ -1,0 +1,18 @@
+{
+  "name": "js-advanced",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "crawler": "node --experimental-modules src/crawler",
+    "test": "mocha --experimental-modules"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  },
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "node-fetch": "^2.6.0"
+  }
+}
